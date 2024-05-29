@@ -1,5 +1,5 @@
 body {
-    height: 96.5vh;
+    height: 98vh;
     background: linear-gradient(0deg, rgba(67, 28, 151, 0.9081757703081232) 32%, rgba(27, 124, 144, 0.8689600840336135) 74%);
 }
 
@@ -7,12 +7,13 @@ body {
     display: flex;
     margin: auto;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: #fff;
     padding-bottom: 30px;
     width: 540px;
     border-radius: 50px;
-    box-shadow: 15px 15px 50px  black;
+    height: 500px;
+    box-shadow: 15px 15px 50px black;
 
 }
 
@@ -74,7 +75,7 @@ body {
     color: #797979;
     font-size: 19px;
     font-family: serif;
-    
+
 }
 
 .forget-password {

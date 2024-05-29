@@ -3,6 +3,7 @@ import './LoginSignup.css'
 import email_icon from '../Assests/email.png'
 import user_icon from '../Assests/user.png'
 import pass_icon from '../Assests/pass.png'
+
 export const LoginSignup = () => {
     const [action,setAction]=useState("Sign Up");
 
